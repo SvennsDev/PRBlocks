@@ -1,0 +1,5 @@
+name: PRBlocks
+version: '${version}'
+main: nl.nijhuissven.prblocks.PRBlocks
+api-version: '1.21'
+author: NijhuisSven
